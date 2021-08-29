@@ -10,3 +10,6 @@ zstyle :compinstall filename '/home/cj/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+alias lsa='exa --group-directories-first --git --icons -ilah --color-scale'
+alias lst='exa --group-directories-first --git --icons -ilahT --color-scale'
+neofetch

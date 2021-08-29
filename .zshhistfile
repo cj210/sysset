@@ -1,0 +1,17 @@
+ls
+ls -lah
+lsa
+git status
+vim packages.sh
+git status
+git add -A
+git status
+git commit -m "Installed ZSH"
+sudo pacman -S powerlevel10k
+sudo pacman -S powerlevel10k
+sudo pacman -S powerlevel-10k
+sudo pacman -S ohmyzsh
+ls -lah
+bash
+logout
+exit
