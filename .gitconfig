@@ -1,3 +1,7 @@
 [user]
 	name = cj
 	email = kalicharan.hbs@gmail.com
+[color]
+	ui = always
+[core]
+	editor = vim
