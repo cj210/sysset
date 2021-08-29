@@ -1,1 +1,1 @@
-sudo pacman -Syyu terminus-font exa
+sudo pacman -Syyu terminus-font exa zsh
